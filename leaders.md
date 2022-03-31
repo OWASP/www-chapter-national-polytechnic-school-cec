@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Galoget Latorre](mailto:galoget.latorre@owasp.org)
+* [Danilo Erazo](mailto:danilo.erazo@owasp.org)
