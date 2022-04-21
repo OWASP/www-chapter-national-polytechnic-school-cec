@@ -1,13 +1,3 @@
----
-
-layout: col-sidebar
-title: OWASP CEC-EPN
-tags: example-tag
-region: South America
-meetup-group:
-
----
-
 # OWASP CEC-EPN Chapter
 
 Bienvenido a la página principal del Capítulo de OWASP del Centro de Educación Continua de la Escuela Politécnica Nacional en Quito, Ecuador.
