@@ -22,7 +22,7 @@ Bienvenido a la página principal del Capítulo de OWASP del Centro de Educació
 Escríbenos para coordinar nuestras siguientes reuniones virtuales del 2022.
 
 ### Redes Sociales:
-- <https://facebook.com/owasp.ecuador>
+
 
 ## Meetings
 
@@ -34,8 +34,7 @@ Por favor visita y suscríbete en <https://owasp.org/www-chapter-national-polyte
 
 Realizamos eventos en nuestro capítulo y participamos también en actividades de OWASP en Latinoamérica y el mundo, como es el caso del OWASP Latam@Home 2022 que se desarrollará entre abril y junio de 2022, donde habrá Conferencias y Talleres.
 
-Visita nuestra página de Meetup para registrarte en los próximos eventos:
-<http://www.meetup.com/OWASP-CEC-EPN>
+Visita nuestra página de Meetup para registrarte en los próximos eventos 
 
 ## Acerca de OWASP
 
