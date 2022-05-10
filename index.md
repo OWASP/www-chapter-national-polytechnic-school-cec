@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP CEC-EPN
+title: OWASP National Polytechnic School-CEC-EPN
 tags: example-tag
 region: South America
 meetup-group:
