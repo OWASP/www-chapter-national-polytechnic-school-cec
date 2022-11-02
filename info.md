@@ -3,9 +3,6 @@
 
 ### Social Links
 * [Meetup](#)
-* [Facebook](#)
-* [Twitter](#)
-* [Instagram](#)
-* [LinkedIn](#)
+
 
 
