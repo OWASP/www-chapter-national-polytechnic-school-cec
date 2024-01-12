@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP National Polytechnic School CEC-EPN
 tags: example-tag
 region: South America
+country: Ecuador
 meetup-group:
 
 ---
