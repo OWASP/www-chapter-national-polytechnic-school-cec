@@ -1,0 +1,23 @@
+leaders:
+  - name: Galoget Latorre
+    email: galoget.latorre@owasp.org
+    github: galoget
+  - name: Danilo Erazo
+    email: danilo.erazo@owasp.org
+location:
+  country: Ecuador
+  country_code: EC
+  region: Pichincha
+  city: Quito
+  latitude: -0.08740105000000001
+  longitude: -78.46530426402191
+name: OWASP National Polytechnic School CEC-EPN
+repositories:
+  - name: www-chapter-national-polytechnic-school-cec
+    url: https://github.com/OWASP/www-chapter-national-polytechnic-school-cec
+    description: OWASP Foundation CEC-EPN Chapter Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-national-polytechnic-school-cec
