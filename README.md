@@ -29,7 +29,7 @@ Visita nuestra página de Meetup para registrarte en los próximos eventos:
 
 ## Acerca de OWASP
 
-Open Web Application Security Project (OWASP) es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. Nuestros proyectos incluyen:
+Open Worldwide Application Security Project (OWASP) es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. Nuestros proyectos incluyen:
 
 - Proyectos de software de código abierto liderados por la comunidad
 - Más de 275 capítulos locales en todo el mundo.
